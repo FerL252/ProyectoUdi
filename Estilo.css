@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: firebrick;
+    
+}
+header{
+    background-color: darkred;
+    height: 90px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+
+}
+
+nav li{
+    float:left;
+    list-style: none;
+       margin: 10px;
+       line-height: 30px;
+     }
+
+     nav{
+        background:cornsilk;
+        height: 50px;
+      }
+
+
+
+.fade{
+    margin-top: 0%;
+}
+.Peliculas{
+    margin-top: 1%;
+}
+
+footer{
+    margin-top: 28.5%;
+    background: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+  }
